@@ -1,0 +1,36 @@
+#menu{ 
+    height:75px;
+    }
+
+#contenu{ 
+    background-color:#FFD800;
+    }
+
+
+button#hamburger{
+    height:5px;
+    width:5px;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border: 2px outset buttonface;
+    }
+    
+#h2{
+    Text-align:center;
+    color:white;
+}
+    
+button#hamburger img{
+    width:26px;
+    height:auto;
+}
+
+body,html{
+    margin:0px;
+    padding:0px;
+    }
